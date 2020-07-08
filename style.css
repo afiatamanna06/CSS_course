@@ -1,3 +1,10 @@
 body {
-    background-color: brown;
+    background-color: pink;
+}
+
+
+/* Element Selector */
+
+h1 {
+    color: indigo;
 }
