@@ -9,3 +9,11 @@ h1 {
     color: indigo;
     margin-left: 40px;
 }
+
+
+/* Class Selector */
+
+.sections {
+    color: seagreen;
+    margin-left: 40px;
+}
