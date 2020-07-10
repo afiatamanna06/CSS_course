@@ -17,3 +17,11 @@ h1 {
     color: seagreen;
     margin-left: 40px;
 }
+
+
+/* ID Selector */
+
+#sometext {
+    color: darkred;
+    margin-left: 40px;
+}
