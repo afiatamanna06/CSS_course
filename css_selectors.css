@@ -6,3 +6,11 @@ h3 {
 #paragraph {
     text-align: center;
 }
+
+.section {
+    text-align: right;
+}
+
+p.section {
+    color: darkgreen;
+}
