@@ -14,3 +14,7 @@ h3 {
 p.section {
     color: darkgreen;
 }
+
+.large {
+    font-size: 200%;
+}
