@@ -1,20 +1,26 @@
-h1,
-h3 {
-    color: brown;
-}
-
-#paragraph {
-    text-align: center;
-}
-
-.section {
-    text-align: right;
-}
-
-p.section {
-    color: darkgreen;
-}
-
-.large {
-    font-size: 200%;
-}
+    * {
+        background-color: indigo;
+    }
+    
+    h1,
+    h3 {
+        color: burlywood;
+    }
+    
+    #paragraph {
+        text-align: center;
+    }
+    
+    .section {
+        text-align: right;
+        color: aquamarine;
+    }
+    
+    p.section {
+        color: lightskyblue;
+    }
+    /*this is a comment in css*/
+    
+    .large {
+        font-size: 200%;
+    }
