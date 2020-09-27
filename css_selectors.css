@@ -1,19 +1,16 @@
     * {
-        background-color: indigo;
+        background: url('bg.jpg');
         opacity: 0.85;
-    }
-    
-    h1 {
-        background-color: lavender;
     }
     
     h1,
     h3 {
-        color: palevioletred;
+        color: white;
     }
     
     #paragraph {
         text-align: center;
+        color: pink;
         border: 2px solid darkgoldenrod;
     }
     
