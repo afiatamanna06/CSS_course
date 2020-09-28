@@ -13,7 +13,7 @@
     
     #paragraph {
         text-align: center;
-        color: pink;
+        color: #ffff99;
         border: 2px solid darkgoldenrod;
     }
     
@@ -23,10 +23,11 @@
     }
     
     p.section {
-        color: lightskyblue;
+        color: #ff6600;
     }
     /*this is a comment in css*/
     
     .large {
         font-size: 200%;
+        font-style: bold;
     }
