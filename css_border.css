@@ -1,9 +1,14 @@
-p.solid {
+.solid {
     border-style: solid;
     border-color: blue;
 }
 
-p.dashed {
+.dashed {
     border-style: dashed;
     border-color: green;
+}
+
+.dotted {
+    border-style: dotted;
+    border-color: maroon;
 }
