@@ -1,3 +1,9 @@
-.solid {
+p.solid {
     border-style: solid;
+    border-color: blue;
+}
+
+p.dashed {
+    border-style: dashed;
+    border-color: green;
 }
