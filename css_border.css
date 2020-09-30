@@ -12,3 +12,8 @@
     border-style: dotted;
     border-color: maroon;
 }
+
+.double {
+    border-style: double;
+    border-color: rgb(250, 17, 153);
+}
