@@ -17,3 +17,8 @@
     border-style: double;
     border-color: rgb(250, 17, 153);
 }
+
+.goove {
+    border-style: groove;
+    border-color: rgb(179, 99, 7);
+}
