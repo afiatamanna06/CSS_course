@@ -32,3 +32,8 @@
     border-style: dotted dashed solid double;
     border-color: rgb(250, 149, 17);
 }
+
+.inset {
+    border-style: inset;
+    border-color: rgb(250, 246, 17);
+}
