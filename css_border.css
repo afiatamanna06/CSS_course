@@ -37,3 +37,8 @@
     border-style: inset;
     border-color: rgb(250, 246, 17);
 }
+
+.outset {
+    border-style: outset;
+    border-color: rgb(129, 121, 153);
+}
