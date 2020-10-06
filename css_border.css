@@ -26,6 +26,7 @@
     border-style: groove;
     border-color: rgb(179, 99, 7);
     border-width: 5px 3px;
+    border-radius: 10px;
 }
 
 .ridge {
