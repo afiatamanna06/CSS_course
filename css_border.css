@@ -1,21 +1,25 @@
 .solid {
     border-style: solid;
     border-color: blue;
+    border-width: 5px;
 }
 
 .dashed {
     border-style: dashed;
     border-color: green;
+    border-width: medium;
 }
 
 .dotted {
     border-style: dotted;
     border-color: maroon;
+    border-width: thick;
 }
 
 .double {
     border-style: double;
     border-color: rgb(250, 17, 153);
+    border-width: thick;
 }
 
 .goove {
