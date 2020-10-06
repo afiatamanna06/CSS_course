@@ -12,7 +12,7 @@
 
 .dotted {
     border-style: dotted;
-    border-color: maroon;
+    border-color: maroon blueviolet orangered greenyellow;
     border-width: thick;
 }
 
