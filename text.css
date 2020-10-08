@@ -3,3 +3,11 @@ h1 {
     color: rgb(245, 212, 212);
     background-color: lightseagreen;
 }
+
+div {
+    height: 80px;
+    width: 100px;
+    border: 2px solid peru;
+    padding: 10px;
+    text-align: justify;
+}
