@@ -11,3 +11,8 @@ div {
     padding: 10px;
     text-align: justify;
 }
+
+p {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
