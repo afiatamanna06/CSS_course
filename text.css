@@ -15,4 +15,5 @@ div {
 p {
     direction: rtl;
     unicode-bidi: bidi-override;
+    text-decoration: line-through;
 }
