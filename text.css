@@ -22,3 +22,8 @@ h2 {
     color: rgb(8, 116, 5);
     text-decoration: overline;
 }
+
+h3 {
+    color: rgb(116, 5, 79);
+    text-decoration: underline;
+}
