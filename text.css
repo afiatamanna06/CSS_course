@@ -17,3 +17,8 @@ p {
     unicode-bidi: bidi-override;
     text-decoration: line-through;
 }
+
+h2 {
+    color: rgb(8, 116, 5);
+    text-decoration: overline;
+}
