@@ -2,6 +2,7 @@ h1 {
     text-align: center;
     color: rgb(245, 212, 212);
     background-color: lightseagreen;
+    text-transform: capitalize;
 }
 
 div {
@@ -21,9 +22,11 @@ p {
 h2 {
     color: rgb(8, 116, 5);
     text-decoration: overline;
+    text-transform: uppercase;
 }
 
 h3 {
     color: rgb(116, 5, 79);
     text-decoration: underline;
+    text-transform: lowercase;
 }
