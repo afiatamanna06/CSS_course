@@ -26,6 +26,7 @@ h2 {
 }
 
 h3 {
+    text-indent: 50px;
     color: rgb(116, 5, 79);
     text-decoration: underline;
     text-transform: lowercase;
