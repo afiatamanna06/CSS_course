@@ -22,6 +22,7 @@ p {
 h2 {
     color: rgb(8, 116, 5);
     text-decoration: overline;
+    text-shadow: 2px 2px 3px lightcoral;
     text-transform: uppercase;
     letter-spacing: 3px;
 }
