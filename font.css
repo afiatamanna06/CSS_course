@@ -12,3 +12,8 @@
     font-family: 'Courier New', Courier, monospace;
     font-style: italic;
 }
+
+.fontvariant {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-variant: small-caps;
+}
